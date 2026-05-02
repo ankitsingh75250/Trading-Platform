@@ -15,33 +15,33 @@ function Fotter() {
         </div>
         <div className="col">
           <p>Company</p>
-          <a  href="" style={{ textDecoration:"none"}}>Philosophy</a><br/>
-          <a href=""style={{ textDecoration:"none"}}>Press & media</a><br/>
-          <a href=""style={{ textDecoration:"none"}}>About</a><br/>
-          <a href=""style={{ textDecoration:"none"}}>Careers</a><br/>
-          <a href=""style={{ textDecoration:"none"}}>Zerodha Cares (CSR)</a><br/>
-          <a href=""style={{ textDecoration:"none"}}>Zerodha.tech</a><br/>
-          <a href=""style={{ textDecoration:"none"}}>Open source</a><br/>
+          <a  href="/signup" style={{ textDecoration:"none"}}>Philosophy</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>Press & media</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>About</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>Careers</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>Zerodha Cares (CSR)</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>Zerodha.tech</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>Open source</a><br/>
         </div>
         <div className="col">
           <p>support</p>
-          <a href=""style={{ textDecoration:"none"}}>Contact us</a><br/>
-          <a href=""style={{ textDecoration:"none"}}>Support portal</a><br/>
-          <a href=""style={{ textDecoration:"none"}}>How to file a complaint?</a><br/>
-          <a href=""style={{ textDecoration:"none"}}>Status of your complaints</a><br/>
-          <a href=""style={{ textDecoration:"none"}}>Bulletin</a><br/>
-          <a href=""style={{ textDecoration:"none"}}>Circular</a><br/>
-          <a href=""style={{ textDecoration:"none"}}>Z-Connect blog</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>Contact us</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>Support portal</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>How to file a complaint?</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>Status of your complaints</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>Bulletin</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>Circular</a><br/>
+          <a href="/signup"style={{ textDecoration:"none"}}>Z-Connect blog</a><br/>
         </div>
         <div className="col">
           <p>Account</p>
-         <a href=""style={{ textDecoration:"none"}}>Open demat account</a><br/>
-         <a href=""style={{ textDecoration:"none"}}>Minor demat account</a><br/>
-         <a href=""style={{ textDecoration:"none"}}>NRI demat account</a><br/>
-         <a href=""style={{ textDecoration:"none"}}>Commodity</a><br/>
-         <a href=""style={{ textDecoration:"none"}}>Dematerialisation</a><br/>
-         <a href=""style={{ textDecoration:"none"}}>Fund transfer</a>  <br/>
-         <a href=""style={{ textDecoration:"none"}}>MTF</a><br/>
+         <a href="/signup"style={{ textDecoration:"none"}}>Open demat account</a><br/>
+         <a href="/signup"style={{ textDecoration:"none"}}>Minor demat account</a><br/>
+         <a href="/signup"style={{ textDecoration:"none"}}>NRI demat account</a><br/>
+         <a href="/signup"style={{ textDecoration:"none"}}>Commodity</a><br/>
+         <a href="/signup"style={{ textDecoration:"none"}}>Dematerialisation</a><br/>
+         <a href="/signup"style={{ textDecoration:"none"}}>Fund transfer</a>  <br/>
+         <a href="/signup"style={{ textDecoration:"none"}}>MTF</a><br/>
 
         </div>
       </div>
